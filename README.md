@@ -1,7 +1,7 @@
 Made this as a birthday present for my college friend during holidays. Small attempt for virtual party.
 
 
-URL: http://suryakant261.github.io/
+URL: [click me!](https://maiavikhoon.github.io/aviktalks.github.io/)
 
 Lang. Used: Javascript, CSS3, HTML5
 
